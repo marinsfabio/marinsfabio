@@ -8,7 +8,7 @@
 
 ##
 <div style="display: inline_block"><br/>
-    <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=marinsfabio&show_icons=true&theme=dracula"></img>
+<!--     <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=marinsfabio&show_icons=true&theme=dracula"></img> -->
     <img width="26%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinsfabio&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></img>
 </div>
 
